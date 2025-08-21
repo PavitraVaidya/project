@@ -37,22 +37,7 @@ pip install -r requirements.txt
 
 ---
 
-▶ Usage
 
-1. Train the model
-
-
-
-python train.py
-
-2. Run the simulation
-
-
-
-python main.py
-
-
----
 
 📊 Model
 
